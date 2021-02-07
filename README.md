@@ -1,8 +1,11 @@
 # Python-Workshop
 
 <div dir="rtl">
-برگزاری دوره های توانمندسازی و بالندگی زمستان 99 (ویژه اساتید)
+برگزاری دوره های توانمندسازی و بالندگی زمستان ۹۹ (ویژه اساتید)
+ دانشگاه فنی و حرفه‌ای
 </div>
+
+* Announcement: https://cutt.ly/FkbC2H0
 
 ## Video of Python-Workshop
 * Part1 : https://mega.nz/file/TkFkEDJD#6ecjOI5EoxXNSaI1EoHxr-GhYw1PVAxyoXf0SysBtJQ
