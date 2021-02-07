@@ -2,7 +2,7 @@
 
 ## Algorithms and Design Patterns
 
-*Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
+*Python implementation of data structures, algorithms and design patterns.
 
 * Algorithms
     * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
