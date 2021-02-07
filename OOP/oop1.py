@@ -31,7 +31,7 @@ class SoftwareEngineer:
     def __eq__ (self, other):
         return self.name == other.name and self.age == other.age
 
-    @classmethod
+    @staticmethod
     def entry_salary(age):
         if age < 25:
             return 500
@@ -44,6 +44,8 @@ se1 = SoftwareEngineer("Hossein" , 27, "Junior" , 500)
 se2 = SoftwareEngineer("Ali" , 35, "Senior" , 700)
 se3 = SoftwareEngineer("Ali" , 39, "Senior" , 700)
 
+
+str(dqw)
 
 print(se1.entry_salary(24))
 # print (se2 == se3)
