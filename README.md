@@ -1,5 +1,8 @@
 # Python-Workshop
 
+## Video of Python-Workshop
+* Part1 : https://mega.nz/file/TkFkEDJD#6ecjOI5EoxXNSaI1EoHxr-GhYw1PVAxyoXf0SysBtJQ
+ 
 ## Algorithms and Design Patterns
 
 *Python implementation of data structures, algorithms and design patterns.*
