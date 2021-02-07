@@ -1,6 +1,8 @@
 # Python-Workshop
 
+<div dir="rtl">
 برگزاری دوره های توانمندسازی و بالندگی زمستان 99 (ویژه اساتید)
+</div>
 
 ## Video of Python-Workshop
 * Part1 : https://mega.nz/file/TkFkEDJD#6ecjOI5EoxXNSaI1EoHxr-GhYw1PVAxyoXf0SysBtJQ
