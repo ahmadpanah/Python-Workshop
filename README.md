@@ -1,5 +1,7 @@
 # Python-Workshop
 
+برگزاری دوره های توانمندسازی و بالندگی زمستان 99 (ویژه اساتید)
+
 ## Video of Python-Workshop
 * Part1 : https://mega.nz/file/TkFkEDJD#6ecjOI5EoxXNSaI1EoHxr-GhYw1PVAxyoXf0SysBtJQ
  
