@@ -40,7 +40,7 @@ class SoftwareEngineer:
 
 se = SoftwareEngineer("Hossein" , 28)
 
-for i in range(300):
+for i in range(70):
     se.code()
 
 print(se._num_bugs_solved)
