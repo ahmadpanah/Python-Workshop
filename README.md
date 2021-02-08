@@ -12,18 +12,18 @@
 
 - Day1 :
 
-* Part1 : https://mega.nz/file/TkFkEDJD#6ecjOI5EoxXNSaI1EoHxr-GhYw1PVAxyoXf0SysBtJQ
-* Part2 : https://shamswebinar.ir/pd6sy4svu5n3/
+ * Part1 : https://mega.nz/file/TkFkEDJD#6ecjOI5EoxXNSaI1EoHxr-GhYw1PVAxyoXf0SysBtJQ
+ * Part2 : https://shamswebinar.ir/pd6sy4svu5n3/
 
 - Day2 :
 
-* Part1 : https://mega.nz/file/UBwAmZIC#0TTD4_U7UsM38GbTbZs73Dlk2wUq0Zbv7cvaziIWAv8
+ * Part1 : https://mega.nz/file/UBwAmZIC#0TTD4_U7UsM38GbTbZs73Dlk2wUq0Zbv7cvaziIWAv8
 
-* Part2 : https://mega.nz/file/YApxzaRA#sbWJ4DWupejSz2lcXlppXAM0ekQ-9ZvYpwlUze_fuls
+ * Part2 : https://mega.nz/file/YApxzaRA#sbWJ4DWupejSz2lcXlppXAM0ekQ-9ZvYpwlUze_fuls
 
-* Part3 : https://mega.nz/file/sYwxSIZT#hYeR6WShLq9Z6D7OWq0FDGVTrcu9iRGMbcqb54gpORA
+ * Part3 : https://mega.nz/file/sYwxSIZT#hYeR6WShLq9Z6D7OWq0FDGVTrcu9iRGMbcqb54gpORA
 
-* Part4 : https://mega.nz/file/JQxxiICC#P5KO57Fc2saiAoJn0GtKIB7lf6AtwreAd8oeSoe42qA
+ * Part4 : https://mega.nz/file/JQxxiICC#P5KO57Fc2saiAoJn0GtKIB7lf6AtwreAd8oeSoe42qA
 
  
 ## Algorithms and Design Patterns
