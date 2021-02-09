@@ -26,7 +26,7 @@
 		Part4 : https://mega.nz/file/JQxxiICC#P5KO57Fc2saiAoJn0GtKIB7lf6AtwreAd8oeSoe42qA
 
  ## Slides
- * [Introduction] (https://github.com/ahmadpanah/Python-Workshop/raw/master/python.pdf)
+ * [Introduction](https://github.com/ahmadpanah/Python-Workshop/raw/master/python.pdf)
  
 ## Algorithms and Design Patterns
 
