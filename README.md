@@ -12,7 +12,8 @@
 
 - Day1 :
 
-	[Part1](https://mega.nz/file/TkFkEDJD#6ecjOI5EoxXNSaI1EoHxr-GhYw1PVAxyoXf0SysBtJQ_
+	[Part1](https://mega.nz/file/TkFkEDJD#6ecjOI5EoxXNSaI1EoHxr-GhYw1PVAxyoXf0SysBtJQ_)
+	
 	[Part2](https://shamswebinar.ir/pd6sy4svu5n3/)
 
 - Day2 :
